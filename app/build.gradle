@@ -28,5 +28,4 @@ dependencies {
     testCompile 'junit:junit:4.12'
 }
 
-
-//Testing commit
+//Testing commit in Dos-5 branch
